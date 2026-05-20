@@ -1,0 +1,5 @@
+/* Hide the textual package name under the sidebar logo. The logo itself
+   remains as the clickable link to the home page. */
+.docs-package-name {
+    display: none;
+}
