@@ -1,16 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <!-- GABM.jl — generative agents on a network -->
-  <g fill="none" stroke="#bdbdc4" stroke-width="6" stroke-linecap="round">
-    <line x1="100" y1="58" x2="52" y2="138"/>
-    <line x1="100" y1="58" x2="148" y2="138"/>
-    <line x1="52" y1="138" x2="148" y2="138"/>
-  </g>
-  <!-- agent nodes -->
-  <circle cx="52" cy="138" r="22" fill="#389826"/>
-  <circle cx="148" cy="138" r="22" fill="#CB3C33"/>
-  <!-- generative agent: accented node with a spark -->
-  <circle cx="100" cy="58" r="26" fill="#9558B2"/>
-  <g fill="#ffffff">
-    <path d="M100 38 L104 54 L120 58 L104 62 L100 78 L96 62 L80 58 L96 54 Z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 150" width="540" height="150">
+  <!-- GABM.jl wordmark — G/A/B/M in the official Julia colours, ".jl" in black -->
+  <text x="270" y="75"
+        font-family="'DejaVu Sans','Helvetica Neue',Arial,sans-serif"
+        font-weight="700" font-size="104" letter-spacing="1"
+        text-anchor="middle" dominant-baseline="central">
+    <tspan fill="#4063D8">G</tspan><tspan fill="#CB3C33">A</tspan><tspan fill="#389826">B</tspan><tspan fill="#9558B2">M</tspan><tspan fill="#1a1a1a">.jl</tspan>
+  </text>
 </svg>
