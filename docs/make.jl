@@ -11,7 +11,7 @@ makedocs(
         prettyurls = get(ENV, "CI", nothing) == "true",
         canonical = "https://simoneSantoni.github.io/GABM.jl",
         edit_link = "main",
-        assets = ["assets/custom.css"],
+        assets = ["assets/custom.css", "assets/favicon.ico"],
     ),
     repo = "https://github.com/simoneSantoni/GABM.jl/blob/{commit}{path}#{line}",
     pages = [
