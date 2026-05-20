@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- GABM.jl wordmark — G/A/B/M in the official Julia colours, ".jl" in black -->
+  <text x="128" y="130"
+        font-family="'DejaVu Sans','Helvetica Neue',Arial,sans-serif"
+        font-weight="700" font-size="52" letter-spacing="1"
+        text-anchor="middle" dominant-baseline="central">
+    <tspan fill="#4063D8">G</tspan><tspan fill="#CB3C33">A</tspan><tspan fill="#389826">B</tspan><tspan fill="#9558B2">M</tspan><tspan fill="#1a1a1a">.jl</tspan>
+  </text>
+</svg>

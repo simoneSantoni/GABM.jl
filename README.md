@@ -1,5 +1,7 @@
 # GABM.jl
 
+<img src="docs/src/assets/icon.png" align="right" width="120" alt="GABM.jl icon"/>
+
 *Generative Agent-Based Modeling in Julia.*
 
 [![Dev docs](https://img.shields.io/badge/docs-dev-blue.svg)](https://simoneSantoni.github.io/GABM.jl/dev)
